@@ -11,6 +11,7 @@ Welcome to the official documentation for **aaRSPred**, a computational method d
 Panwar, B., & Raghava, G. P. S. (2010). 
 **Prediction and classification of aminoacyl tRNA synthetases using PROSITE domains.** *BMC Genomics*, 11, 507. 
 [https://doi.org/10.1186/1471-2164-11-507](https://doi.org/10.1186/1471-2164-11-507)
+Zenodo:-(https://doi.org/10.5281/zenodo.20133931)
 
 ---
 
