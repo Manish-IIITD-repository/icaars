@@ -1,4 +1,4 @@
-# aaRSPred: Prediction and Classification of Aminoacyl tRNA Synthetases
+# icaars: Prediction and Classification of Aminoacyl tRNA Synthetases
 
 Welcome to the official documentation for **aaRSPred**, a computational method developed for the prediction and classification of Aminoacyl tRNA synthetases (aaRSs) using PROSITE domains and Support Vector Machines (SVM). aaRSs are essential enzymes that catalyze the attachment of amino acids to their cognate transfer RNAs, playing a vital role in protein synthesis across all organisms.
 
